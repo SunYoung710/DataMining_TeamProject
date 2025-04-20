@@ -1,1 +1,6 @@
-# DataMining_Teamprojet
+#### DataMining_Teamprojet
+
+## 상권 데이터 기반 공원 조성 제안
+
+###### 프로젝트 기간: 2023년 4월 10일 → 2023년 5월 22일
+###### 팀원: 박선영, 정태경
