@@ -1,4 +1,4 @@
-#### DataMining_Teamprojet
+#### DataMining_TeamProjet
 
 ## 상권 데이터 기반 공원 조성 제안
 
